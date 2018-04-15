@@ -1,2 +1,2 @@
-# API-project
+# Web-project
 Just learning GitHub
